@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mocca101
 - 👀 I’m mainly interested in CG, Procedural Art, Shaders, Game programming, but that's just the tip of the iceberg there are too mnay interesting Possibilities to count.
-- 🌱 I’m currently learning Shaders, Godot & Vue.
+- 🌱 I’m currently working on & with Shaders, Godot & Vue.
 - 📫 How to reach me, Github probably.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
